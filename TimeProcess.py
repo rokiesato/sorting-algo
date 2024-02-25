@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan  7 20:36:51 2024
-
-@author: rokie
-"""
-
-#Name: Edriann Nazareth
+#Name: rokie
 #Date: Jan. 7, 2024
 import time # use time library to time the code executions
 # get current time before the process
